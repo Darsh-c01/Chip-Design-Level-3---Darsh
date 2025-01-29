@@ -18,8 +18,26 @@ This is a representation of the core of the chip
 It is a instruction set architecture(ISA). \
 We first write the specifications in a language like C whis is then converted to the assembly level language , which in turn is converted to an RTL.
 
-### Flow from a app to the chip:
+### <ins>Flow from a app to the chip:(software to hardware) </ins>
 ![image](https://github.com/user-attachments/assets/abee7640-7367-4a00-9348-ddc399b5f0f7)
+>The steps involved in this process are:
+> 1. The input coming form the os is usually in one of the languages mentioned above 
+> 2. Now what the compiler does is , it converts these into a set of instructions whose syntax is subjective to the hardware being used , for example a RISC-V hardware or a intel hardware will have a difference in the instructions 
+> 3. After this , these instructions are then converted into binary by the assembler which then transfers it to the chip.
+
+![image](https://github.com/user-attachments/assets/aad0f6b8-6e0c-4bb9-bfe5-a8f534299989)
+The instuction set which is the output of the compiler is basically a abstract interface between the software and the hardware OR it is the "architecture of the computer" 
+
+## The flow for a chip to be designed:
+![image](https://github.com/user-attachments/assets/07532fbf-792e-4505-ae5a-5967f3c3efdf)
+
+What essentially happens here is that the output of the assembler is converted to RTL which is then converted into a netlist , followed by a physical implementation of it.
+
+
+
+
+
+
 
 
 
