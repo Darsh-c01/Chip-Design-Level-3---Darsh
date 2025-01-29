@@ -8,4 +8,11 @@ This is essentially how a chip is from the inside
 1.Pads: They are basically like doors which help the core send and recive signals \
 2.Core: This is the part where all the logic gates are and the main processing happens \
 
+![image](https://github.com/user-attachments/assets/a9eb95ff-ecbf-4e1d-b452-3f09c29cb087) 
+This is a representation of the core of the chip \ 
+>Foundry IPs: \
+ Foundy is basically the place where a chip is manufactures
+ IP = Intelectual Property
+
+
 
