@@ -42,7 +42,20 @@ For us to design a ASIC chip we need the following:
 >The full forms of the above are:\
 >RTL = Register Transfer Level\
 >EDA = Electronic Design Automation\
->PDK = Process Design Kits
+>PDK = Process Design Kits (It is the interface between the Fab and the Designer)
+
+### <ins> Steps in ASIC Design / flow </ins>
+>1.Specification\
+>2.Architecture Design\
+>3.RTL\
+>4.RTL to Netlist conversion\
+>5.Floor Planning\
+>6.Placement and Routing\
+>7.Physical Verification\
+>8.Timing Analysis (Clock tree analysis)\
+>9.Simulation\
+>10.Final Verification\
+>11.TapeOut
 
 
 
