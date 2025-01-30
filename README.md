@@ -57,7 +57,8 @@ For us to design a ASIC chip we need the following:
 >10.Final Verification\
 >11.TapeOut
 
-
+## <ins> OpenLane ! </ins>
+It is a open source tool whose primary purpose is for a automated and clean production of the GDSII file without any DRC(Design Rule Check) or LVS(Layout vs Schematic) violations
 
 
 
