@@ -1,4 +1,5 @@
 # Chip-Design-Level-3-Darsh
+#### Image sources : VSDIAT
 ## <ins>Basics of a chip</ins>
 ![image](https://github.com/user-attachments/assets/a31b1591-51ee-4627-81c8-64287c3e60a1)  
 This is a package with a chip in the centre and represents how the pins in the package are connected to the chip. 
