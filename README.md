@@ -33,6 +33,18 @@ The instuction set which is the output of the compiler is basically a abstract i
 
 What essentially happens here is that the output of the assembler is converted to RTL which is then converted into a netlist , followed by a physical implementation of it.
 
+## <ins>Digital ASIC design</ins>
+
+ASIC stands for : Aplication Specific Integrated Cirucit , which as the name suggest is designed to execute a specific function and not multiple functions \
+For us to design a ASIC chip we need the following: 
+![image](https://github.com/user-attachments/assets/761e5784-e6e8-4566-ac73-085ea6d3d72a)
+
+>The full forms of the above are:\
+>RTL = Register Transfer Level\
+>EDA = Electronic Design Automation\
+>PDK = Process Design Kits
+
+
 
 
 
