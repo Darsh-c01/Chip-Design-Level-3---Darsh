@@ -88,8 +88,25 @@ ls -ltr
 
 ### Design Setup
 Before we start any steps we first need to set up the design , we do this by running the following command
-> <ins> prep -design picorv32a </ins>
+> <ins> prep -design picorv32a </ins> >
 ![image](https://github.com/user-attachments/assets/65c699d0-bd6d-49f8-becf-939b130d1c2e)
+Now if we look after this step we can see the creation of a new file (runs) as seen in the image taken from my laptop below.
+![image](https://github.com/user-attachments/assets/c7946261-464f-42bb-b695-3bce4edfaea3)
+![image](https://github.com/user-attachments/assets/35a04392-7942-40eb-b11d-350a641368d4)
+
+As we can see in the above image the folder 'results' has folders withing it for each step of the flow , these folders will contain the results (They are presently empty)
+
+### <ins> Synthesis </ins>
+Now that we are done with all the preparations , we can start with the synthesis. \
+To do this we run the command
+>run_synthesis
+
+After running the synthesis , if we look into the folders again , we can see that the synthesis folder is no longer empty.
+![image](https://github.com/user-attachments/assets/eb5bd60a-5dda-426b-b90d-ac21f80c1506)
+
+
+
+
 
 
 
