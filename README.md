@@ -1,6 +1,6 @@
 # Chip-Design-Level-3-Darsh
-#### Image sources : VSDIAT
 ## <ins>Basics of a chip</ins>
+#### Image sources : VSDIAT
 ![image](https://github.com/user-attachments/assets/a31b1591-51ee-4627-81c8-64287c3e60a1)  
 This is a package with a chip in the centre and represents how the pins in the package are connected to the chip. 
 ![image](https://github.com/user-attachments/assets/dbccbe88-435e-4080-97a6-4d3507455e9d) 
@@ -16,6 +16,7 @@ This is a representation of the core of the chip
  IP = Intelectual Property
 
 ## Introduciton to RISCV
+#### Image sources : VSDIAT
 It is a instruction set architecture(ISA). \
 We first write the specifications in a language like C whis is then converted to the assembly level language , which in turn is converted to an RTL.
 
@@ -30,11 +31,13 @@ We first write the specifications in a language like C whis is then converted to
 The instuction set which is the output of the compiler is basically a abstract interface between the software and the hardware OR it is the "architecture of the computer" 
 
 ## The flow for a chip to be designed:
+#### Image sources : VSDIAT
 ![image](https://github.com/user-attachments/assets/07532fbf-792e-4505-ae5a-5967f3c3efdf)
 
 What essentially happens here is that the output of the assembler is converted to RTL which is then converted into a netlist , followed by a physical implementation of it.
 
 ## <ins>Digital ASIC design</ins>
+#### Image sources : VSDIAT
 
 ASIC stands for : Aplication Specific Integrated Cirucit , which as the name suggest is designed to execute a specific function and not multiple functions \
 For us to design a ASIC chip we need the following: 
@@ -67,6 +70,7 @@ Here are some basic linux commands mentioned:
 >2. ls -lrt = This lists the files in a folder in chronological order.
 
 ### Preparation and opening OpenLANE
+#### Image sources : My Device
 To open openlane we first choose the right working directory using the<ins> cd</ins> commands and then we give the command <ins> docker</ins> , we then use the command <ins>ls -lrth</ins> followed by  <ins> ./flow.tcl -interactive </ins> /
 
 The image below , is how i have done the steps given so for to open OpenLANE
@@ -75,6 +79,15 @@ Next we need to import all the packages required for us. /
 We do this using the command <ins>package require openlane 0.9</ins>
 Below is as i have done:
 ![image](https://github.com/user-attachments/assets/b17b6bde-93e4-4a04-916f-5d49b4f90ad2)
+
+<ins>Open lane has many designs , we can check these by using the commands: \</ins>
+cd designs\
+ls -ltr\ 
+![image](https://github.com/user-attachments/assets/b7d9b09d-6e6f-4b86-af0e-457b2f49737f)
+
+
+  
+
 
 
 
