@@ -71,6 +71,11 @@ To open openlane we first choose the right working directory using the<ins> cd</
 
 The image below , is how i have done the steps given so for to open OpenLANE
 ![image](https://github.com/user-attachments/assets/84ea3013-8c2e-4c4a-a874-687b7033cdc7)
+Next we need to import all the packages required for us. / 
+We do this using the command <ins>package require openlane 0.9</ins>
+Below is as i have done:
+![image](https://github.com/user-attachments/assets/b17b6bde-93e4-4a04-916f-5d49b4f90ad2)
+
 
 
 
