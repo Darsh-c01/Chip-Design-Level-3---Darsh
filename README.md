@@ -1,4 +1,5 @@
 # Chip-Design-Level-3-Darsh
+# <ins> DAY - 1 </ins>
 ## <ins>Basics of a chip</ins>
 #### Image sources : VSDIAT
 ![image](https://github.com/user-attachments/assets/a31b1591-51ee-4627-81c8-64287c3e60a1)  
@@ -84,6 +85,12 @@ Below is as i have done:
 cd designs\
 ls -ltr
 ![image](https://github.com/user-attachments/assets/b7d9b09d-6e6f-4b86-af0e-457b2f49737f)
+
+### Design Setup
+Before we start any steps we first need to set up the design , we do this by running the following command
+> <ins> prep -design picorv32a </ins>
+![image](https://github.com/user-attachments/assets/65c699d0-bd6d-49f8-becf-939b130d1c2e)
+
 
 
 
