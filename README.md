@@ -59,7 +59,16 @@ For us to design a ASIC chip we need the following:
 >11.TapeOut
 
 ## <ins> OpenLane ! </ins>
-It is a open source tool whose primary purpose is for a automated and clean production of the GDSII file without any DRC(Design Rule Check) or LVS(Layout vs Schematic) violations
+It is a open source tool whose primary purpose is for a automated and clean production of the GDSII file without any DRC(Design Rule Check) or LVS(Layout vs Schematic) violations.
+
+## Setting OpenLANE on Linux 
+Here are some basic linux commands mentioned: 
+>1. cd = This helps in changing the current working directory.
+>2. ls -lrt = This lists the files in a folder in chronological order.
+
+### Preparation and opening OpenLANE
+To open openlane we first choose the right working directory using the >cd> commands and then we give the command >docker> 
+
 
 
 
