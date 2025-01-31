@@ -80,10 +80,11 @@ We do this using the command <ins>package require openlane 0.9</ins>
 Below is as i have done:
 ![image](https://github.com/user-attachments/assets/b17b6bde-93e4-4a04-916f-5d49b4f90ad2)
 
-<ins>Open lane has many designs , we can check these by using the commands: \</ins>
+<ins>Open lane has many designs , we can check these by using the commands:   </ins> \
 cd designs\
-ls -ltr\ 
+ls -ltr
 ![image](https://github.com/user-attachments/assets/b7d9b09d-6e6f-4b86-af0e-457b2f49737f)
+
 
 
   
