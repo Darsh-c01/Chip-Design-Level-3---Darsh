@@ -104,6 +104,12 @@ To do this we run the command
 After running the synthesis , if we look into the folders again , we can see that the synthesis folder is no longer empty.
 ![image](https://github.com/user-attachments/assets/eb5bd60a-5dda-426b-b90d-ac21f80c1506)
 
+### Calculating Flip Flop Ratio using synthesis results
+>Flip Flop ratio = no. of Dffs / No.of cells * 100%
+
+![image](https://github.com/user-attachments/assets/ff2a2fde-4384-4f74-ad44-e1ac2b208276)
+In this case the ratio = 1613/14876*100% = 10.84
+
 
 
 
