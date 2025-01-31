@@ -67,7 +67,11 @@ Here are some basic linux commands mentioned:
 >2. ls -lrt = This lists the files in a folder in chronological order.
 
 ### Preparation and opening OpenLANE
-To open openlane we first choose the right working directory using the >cd> commands and then we give the command >docker> 
+To open openlane we first choose the right working directory using the<ins> cd</ins> commands and then we give the command <ins> docker</ins> , we then use the command <ins>ls -lrth</ins> followed by  <ins> ./flow.tcl -interactive </ins> /
+
+The image below , is how i have done the steps given so for to open OpenLANE
+![image](https://github.com/user-attachments/assets/84ea3013-8c2e-4c4a-a874-687b7033cdc7)
+
 
 
 
