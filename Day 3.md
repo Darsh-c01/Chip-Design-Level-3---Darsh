@@ -24,6 +24,13 @@ The output of this is as follows
 ![image](https://github.com/user-attachments/assets/594a862a-76a5-49ea-9165-2e71c7862b36)
 >We can notice in this image some colours to the right , these are basically the different layers.
 
+#### Checking the NMOS and PMOS 
+##### 1.NMOS
+![image](https://github.com/user-attachments/assets/e9b084a0-e6b0-42d4-9071-4ba97eae633c)
+##### 2.PMOS
+![image](https://github.com/user-attachments/assets/54334217-6e92-462c-b397-d365c580e7be)
+
+
 
 
 
