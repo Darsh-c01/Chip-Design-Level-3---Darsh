@@ -115,6 +115,17 @@ We do this using the command
 ![image](https://github.com/user-attachments/assets/1d33af7d-cc40-4f65-8b8a-3a35808e6b1e)
 (After completion)
 
+### Viewing the result on magic 
+![image](https://github.com/user-attachments/assets/013edd72-5a8c-458e-b3c0-d2cf80d65031)
+(running the command)
+
+![image](https://github.com/user-attachments/assets/78d77444-e86b-4ee5-bdd6-4d7b306f86cf)
+Final output
+
+
+
+
+
 
 
 
