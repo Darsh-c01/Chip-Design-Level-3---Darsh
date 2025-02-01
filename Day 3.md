@@ -30,6 +30,25 @@ The output of this is as follows
 ##### 2.PMOS
 ![image](https://github.com/user-attachments/assets/54334217-6e92-462c-b397-d365c580e7be)
 
+### Extracting the SPICE file:
+First in the Tkcon window , we run the command extract
+![image](https://github.com/user-attachments/assets/46f1423e-467e-4680-9ea1-b42a03c9b5e7)
+This leads to the creation of a new file which can be seen in the following image:
+![image](https://github.com/user-attachments/assets/1ac095da-d8a3-4b91-bbc3-b720d7383e5a)
+
+<ins> Next we create the SPICE file </ins>
+![image](https://github.com/user-attachments/assets/def9a2b3-1ab0-4d00-b1df-9f0417484f83)
+We can now see this file below
+![image](https://github.com/user-attachments/assets/ffca9411-90a4-44c0-9082-f4044bb74034)
+
+Interior of the SPICE file 
+![image](https://github.com/user-attachments/assets/768e237b-963b-4b67-947f-e8285930c877)
+
+
+
+
+
+
 
 
 
