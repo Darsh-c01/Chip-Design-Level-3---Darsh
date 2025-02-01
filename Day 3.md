@@ -44,6 +44,10 @@ We can now see this file below
 Interior of the SPICE file 
 ![image](https://github.com/user-attachments/assets/768e237b-963b-4b67-947f-e8285930c877)
 
+Next we edit the spice file as below
+![image](https://github.com/user-attachments/assets/f6b644b8-9d71-4fb6-a499-303a42f877bd)
+
+
 
 
 
