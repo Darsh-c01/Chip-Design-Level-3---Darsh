@@ -84,7 +84,13 @@ Checking the new files
 ![image](https://github.com/user-attachments/assets/baa0d251-1e62-42be-9342-99bf0b87491e)
 
 ### Opening Magic and seeing the floorplan results
-![image](https://github.com/user-attachments/assets/4c440e16-1680-4cff-9b3c-1fb3e108db1c)
+![image](https://github.com/user-attachments/assets/3190e8c1-0db9-4fdb-87ed-edaaea603e58)
+NOTE : I had tried to do it multiple time befor getting the desired result which is why it shows that i ran the command for magic multiple times
+
+The final output:
+![image](https://github.com/user-attachments/assets/b26baf54-834b-4acf-b812-720051c7db1c)
+
+
 
 
 
