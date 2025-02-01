@@ -21,7 +21,7 @@ Usually the utilisation is around 50-60%
 >Aspect Ratio = Height / Width
 
 Thus when the aspect ratio is 1 we can conclude that the chip is square !
-
+# Floor Planning
 ## <ins> Preplaced Cells </ins>
 ### Image source - VSDIAT
 
@@ -62,6 +62,17 @@ Decoupling Capacitors will be placed close to the cells and minimises the loss o
 These days we use multiple power supplies instead of 1 so that the cells can tap in the power form the nearest power supply , this way there is also no need to have decoupling capacitors every where.
 
 ![image](https://github.com/user-attachments/assets/cf1df766-d84d-4bb4-ab1e-ad6027e0ca55)
+
+## Steps for floorplanning:
+>1.Preplaced Cells \
+>2.Defining the location of preplaced cells\
+>3.Decoupling Capacitor placement\
+>4.Power planning\
+>5.Pin placement\
+>6.Logical cell placement blockage
+
+# <ins> Running Floorplan on openLANE </ins>
+
 
 
 
