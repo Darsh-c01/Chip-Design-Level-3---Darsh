@@ -90,6 +90,32 @@ NOTE : I had tried to do it multiple time befor getting the desired result which
 The final output:
 ![image](https://github.com/user-attachments/assets/b26baf54-834b-4acf-b812-720051c7db1c)
 
+# Placement 
+
+### Steps in placement:
+>1.Bind netlis with physical cells \
+>2.Placement \
+>3.Optimize placement
+
+The first step is to give each component (gates etc) a shape with a proper height and width we store them in libraries (libraries have all the info) 
+>Information in the libraries for a cell
+>1.Dimensions \
+>2.Delay info \
+>3.Required conditions \
+>4.Different flavours of each cell (diff size etc)
+
+Now we placed the netlist onto the floorplan (in a physical form with width and height) 
+Next we optimize the placement. \
+  ~To solve the issue of long distances , we place repeaters 
+
+## Running Placement on OpenLANE
+We do this using the command
+>run_placement
+
+![image](https://github.com/user-attachments/assets/1d33af7d-cc40-4f65-8b8a-3a35808e6b1e)
+(After completion)
+
+
 
 
 
