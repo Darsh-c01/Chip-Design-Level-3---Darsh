@@ -1,7 +1,7 @@
 # <ins> Chip Design for High School - Level 3 </ins>
 ## By - Darsh Chandra , Class 8
 
-This is my repositry for the Chip Design for High School Kunal sir , the contents is as follows:  
+This is my repositry for the Chip Design for High School course by Kunal sir , the contents are as follows:  
 - [Day 1](Day%201.md)
   - [Basics of a chip](Day%201.md#basics-of-a-chip)
   - [Introduciton to RISCV](Day%201.md#introduciton-to-riscv)
