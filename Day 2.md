@@ -50,7 +50,19 @@ What the <ins> Noise Margin Summary </ins>  does is, it shows us the required cu
 ![image](https://github.com/user-attachments/assets/f62c9432-f372-4cc1-84fb-5da5915de621)
 
 If this required current comes via a source throug wires , then there will be a loss in voltage and it might go into the grey area. \
-To solve this problem we use "<ins> Decoupling Capacitors </ins>
+To solve this problem we use "<ins> Decoupling Capacitors </ins> "\
+
+What is a Decoupling Capacitor ? 
+> It is a huge capacitor filled with charge.
+
+Decoupling Capacitors will be placed close to the cells and minimises the loss of voltage. Thus they are used near the cells.
+
+### <ins> Power Planning </ins>
+
+These days we use multiple power supplies instead of 1 so that the cells can tap in the power form the nearest power supply , this way there is also no need to have decoupling capacitors every where.
+
+![image](https://github.com/user-attachments/assets/cf1df766-d84d-4bb4-ab1e-ad6027e0ca55)
+
 
 
 
