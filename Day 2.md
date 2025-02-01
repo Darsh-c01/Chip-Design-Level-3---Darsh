@@ -72,6 +72,22 @@ These days we use multiple power supplies instead of 1 so that the cells can tap
 >6.Logical cell placement blockage
 
 # <ins> Running Floorplan on openLANE </ins>
+## Image source: My device
+We run the floor plan using the command 
+>run_floorplan
+
+After running the floorplan:
+![image](https://github.com/user-attachments/assets/409dfda8-6b86-49b5-9f3b-15a32af2607d)
+
+Checking the new files
+![image](https://github.com/user-attachments/assets/22baa3bb-f9f9-4e98-b438-457a551591a1)
+![image](https://github.com/user-attachments/assets/baa0d251-1e62-42be-9342-99bf0b87491e)
+
+### Opening Magic and seeing the floorplan results
+![image](https://github.com/user-attachments/assets/4c440e16-1680-4cff-9b3c-1fb3e108db1c)
+
+
+
 
 
 
